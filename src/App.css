@@ -1,0 +1,27 @@
+
+*{
+  box-sizing: border-box;
+}
+.main{
+  width: 50%;
+  margin: 20px auto;
+}
+.form_div{
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.button_div{
+  margin-top: 60px;
+  margin-left: 68px;
+}
+.button_div button{
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: black;
+    border: 1px solid black;
+    font-weight: 700;
+}
+
